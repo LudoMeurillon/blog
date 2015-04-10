@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "ludomeurillon",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"ludomeurillon","repositoryName":"blog","branch":"gh-pages"},"site":{"title":"CodingMojo","url":"https://ludomeurillon.github.io/blog"},"socialnetwork":{"twitter":"LudoMeurillon","googleplus":"LudoMeurillon"},"theme":{"name":"Casper","url":"//ludomeurillon.github.io/blog/themes/Casper"}}
